@@ -115,7 +115,3 @@ This repository is primarily for my personal learning journey, but suggestions, 
 
 - GitHub: https://github.com/gauri-210906
 - LinkedIn: https://www.linkedin.com/in/gauri-nilakhe-79151b326
-
----
-
-⭐ If you find this repository helpful, consider giving it a star!
