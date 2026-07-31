@@ -65,7 +65,7 @@ My goal is to strengthen my practical skills by consistently building real-world
 - ✅ NumPy
 - ✅ Pandas
 - ✅ Matplotlib
-- ⏳ Statistics
+- ✅ Statistics
 - ⏳ Machine Learning
 - ⏳ Deep Learning
 - ⏳ NLP
