@@ -24,7 +24,7 @@ My goal is to strengthen my practical skills by consistently building real-world
 | Week | Project | Topics Covered | Status |
 |------|----------|----------------|--------|
 | Week 1 | Student Data Analysis | Pandas, NumPy, Matplotlib | ✅ Completed |
-| Week 2 | Coming Soon | - | ⏳ |
+| Week 2 | Project: Statistical Analysis of California Housing Prices | ✅ Completed |
 | Week 3 | Coming Soon | - | ⏳ |
 | Week 4 | Coming Soon | - | ⏳ |
 
