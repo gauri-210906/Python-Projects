@@ -43,27 +43,6 @@ My goal is to strengthen my practical skills by consistently building real-world
 
 ---
 
-## 📂 Repository Structure
-
-```
-AI-ML-Learning/
-│
-├── Week-01-Student-Data-Analysis/
-│   ├── Data Loading and Cleaning.ipynb
-│   ├── random_students.csv
-│   └── README.md
-│
-├── Week-02/
-│
-├── Week-03/
-│
-├── datasets/
-│
-└── README.md
-```
-
----
-
 ## 📖 Topics Covered
 
 - Python Programming
