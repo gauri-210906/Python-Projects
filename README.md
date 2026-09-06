@@ -27,6 +27,7 @@ My goal is to strengthen my practical skills by consistently building real-world
 | Week 2 | Project: Statistical Analysis of California Housing Prices | Mean, Median, Standard Deviation, Correlation | ✅ Completed |
 | Week 3 | House Prices -Complete EDA & Data Cleaning Project | Outliners, EDA, Feature Scaling | ✅ Completed |
 | Week 4 | Electricity Consumption Prediction | Linear Regression, Polynomial Regression | ✅ Completed |
+| Week 4 | Spam Email Classification | TF-IDF, Multinomial Naive Bayes | ✅ Completed |
 
 ---
 
@@ -66,7 +67,7 @@ My goal is to strengthen my practical skills by consistently building real-world
 - ✅ Pandas
 - ✅ Matplotlib
 - ✅ Statistics
-- ⏳ Machine Learning
+- ✅ Machine Learning
 - ⏳ Deep Learning
 - ⏳ NLP
 - ⏳ Computer Vision
